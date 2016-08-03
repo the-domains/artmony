@@ -1,0 +1,14 @@
+layout_spectrum: 0.5362472
+color:
+  saturation: 0.7777778
+  brandStrength: 0.4419493
+  lightness: 0.1845878
+  rhythmicContrast: 0.3293594
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.7279182
+name: Artmony
